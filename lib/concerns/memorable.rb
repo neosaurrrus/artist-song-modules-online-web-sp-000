@@ -10,4 +10,3 @@ module Memorable
     end
 
 end
-  
